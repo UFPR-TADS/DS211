@@ -1,2 +1,2 @@
-# DS211-SISTEMAS-DE-INFORMACAO
+# SISTEMAS DE INFORMACAO
 Disciplina do primeiro período do curso
